@@ -1,0 +1,7 @@
+[x]Flag observed data
+ * [x] Create flag field as needed
+ * [x] Edit flags
+ * [x] Show unchecked data, good (thicker line) and bad data (symbols ? or just missing)
+ * [x] Add flag checker with tap, area and lasso selections
+ * [x] removed hardwired column names to variables 
+ * [x] implement undo/redo functionality

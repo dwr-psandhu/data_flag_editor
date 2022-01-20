@@ -1,0 +1,14 @@
+name: data_flag_editor
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  # basics
+  - pandas
+  # then plot stuff
+  - holoviews
+  - hvplot
+  - panel
+  # finally misc 
+  - autopep8
