@@ -14,4 +14,4 @@ dependencies:
   - autopep8
   - pip
   - pip: 
-    - --no-deps -e . # add editable of this repo to env
+    - -e . # add editable of this repo to env
