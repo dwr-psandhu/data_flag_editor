@@ -12,3 +12,6 @@ dependencies:
   - panel
   # finally misc 
   - autopep8
+  - pip
+  - pip: 
+    - --no-deps -e . # add editable of this repo to env
